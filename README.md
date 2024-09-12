@@ -58,4 +58,3 @@ python main.py -f 60
 ```{powershell}
 python main.py -T temperature -v 26
 ```
-
